@@ -412,7 +412,7 @@ public:
 };
 
 int main(){
-	AGraph g(8);
+	AGraph g(8); //hello
 	g.addDirectedEdge(1, 4);
 	g.addDirectedEdge(1, 6);         
 	g.addDirectedEdge(1, 2);
